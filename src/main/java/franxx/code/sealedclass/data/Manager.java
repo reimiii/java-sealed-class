@@ -1,4 +1,4 @@
 package franxx.code.sealedclass.data;
 
-public final class Manager extends Employee {
+public non-sealed class Manager extends Employee {
 }
